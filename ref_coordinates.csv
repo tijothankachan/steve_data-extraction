@@ -1,0 +1,34 @@
+fields,1,2,3,8
+PO box,1292,176,1621,214
+PO box,935,116,1218,157
+insured’s id number,1521,439,1766,484
+patients name,73,536,381,580
+patients birth date,970,539,1208,583
+insured’s name,1517,536,1823,580
+patients address,73,628,722,672
+insured’s address,1518,629,2158,675
+city,74,735,221,776
+state,805,739,850,779
+state,862,738,916,773
+insured’s city,1518,735,1661,777
+insured’s state,2209,739,2258,778
+insured’s state,2302,739,2356,777
+pincode,73,843,189,880
+telephone number,489,843,744,884
+insured’s pincode,1518,841,1634,879
+insured’s telephone number,1977,841,2232,883
+other insured’s name,78,941,380,983
+other insured’s policy number,80,1037,333,1075
+insured’s date of birth,1616,1046,1844,1089
+program name ,1513,1237,2181,1283
+insurance plan name,73,1333,721,1377
+Patient's or authorized persons signature,225,1526,621,1568
+Patients Signature Date,1109,1521,1331,1565
+Insured's or authorized persons signature,1688,1522,2088,1567
+"Date of current illness,injury, or Pregnancy (LMP)",109,1643,338,1686
+"Date of current illness,injury, or Pregnancy (LMP)",497,1643,569,1682
+Referring PhysicianName Qual and Referring PhysicianName or other name,109,1734,624,1784
+Referring NPIID,1057,1735,1359,1781
+Hospitalization Date,1709,1756,1955,1797
+Diagnosis Codes,170,1937,349,1980
+Prior authorization number,1560,2039,1865,2081
